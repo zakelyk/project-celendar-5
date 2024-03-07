@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314640814353",
+    "project_id": "modul4-56613",
+    "storage_bucket": "modul4-56613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314640814353:android:42096c849ae7f039967cb0",
+        "android_client_info": {
+          "package_name": "com.example.celendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDggQHw2BoG0OYlGJ3BJAl_dtA9VYUwjBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
